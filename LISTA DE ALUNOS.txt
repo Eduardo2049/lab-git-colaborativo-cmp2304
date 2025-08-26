@@ -1,4 +1,6 @@
 #Lista de presença - Atividade de laboratório GIT/GitHub
 
+
 1. 20221002801935 - Eduardo Felipe
-2. ********
+2. ************
+3. 20221002800033 - Heitor C. Rocha
