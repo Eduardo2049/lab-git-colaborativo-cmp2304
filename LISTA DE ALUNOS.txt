@@ -4,6 +4,5 @@
 1. 20221002801935 - Eduardo Felipe
 2. ************
 3. 20221002800033 - Heitor C. Rocha
-4. 20221003301405 - João Augusto
-5. 20241002803517 - Diony Tarso Ferreira Filho
-
+4. 20241002803517 - Diony Tarso Ferreira Filho
+10. 20221003301405 - João Augusto
